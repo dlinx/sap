@@ -20,6 +20,20 @@ A React based college application portal that helps students to apply to college
  - [x] Custom hooks for state management
  - [ ] Accessibility
 
+## Important screens
+### Student Application welcome stage
+![welcome](./screenshots/application_welcome.png)
+
+### Student Application basic with chat support
+![welcome](./screenshots/application_basic.png)
+
+
+### Light mode
+![welcome](./screenshots/application_lightmode.png)
+
+### Video Tutorial
+![welcome](./screenshots/tutorial.png)
+
 ## 🚀 Features
 
 - ⚡️ **Vite** - Lightning fast build tool
